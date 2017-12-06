@@ -1,0 +1,12 @@
+C:\Users\zeyne\source\repos\Bioenformatik4\Bioenformatik4\bin\Debug\Bioenformatik4.exe.config
+C:\Users\zeyne\source\repos\Bioenformatik4\Bioenformatik4\bin\Debug\Bioenformatik4.exe
+C:\Users\zeyne\source\repos\Bioenformatik4\Bioenformatik4\bin\Debug\Bioenformatik4.pdb
+C:\Users\zeyne\source\repos\Bioenformatik4\Bioenformatik4\obj\Debug\Bioenformatik4.csprojResolveAssemblyReference.cache
+C:\Users\zeyne\source\repos\Bioenformatik4\Bioenformatik4\obj\Debug\Bioenformatik4.Form1.resources
+C:\Users\zeyne\source\repos\Bioenformatik4\Bioenformatik4\obj\Debug\Bioenformatik4.Properties.Resources.resources
+C:\Users\zeyne\source\repos\Bioenformatik4\Bioenformatik4\obj\Debug\Bioenformatik4.csproj.GenerateResource.Cache
+C:\Users\zeyne\source\repos\Bioenformatik4\Bioenformatik4\obj\Debug\Bioenformatik4.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\source\repos\Bioenformatik4\Bioenformatik4\obj\Debug\Bioenformatik4.exe
+C:\Users\zeyne\source\repos\Bioenformatik4\Bioenformatik4\obj\Debug\Bioenformatik4.pdb
+C:\Users\zeyne\source\repos\Bioenformatik4\Bioenformatik4\obj\Debug\Bioenformatik4.JCForm.resources
+C:\Users\zeyne\source\repos\Bioenformatik4\Bioenformatik4\obj\Debug\Bioenformatik4.KimuraForm.resources
